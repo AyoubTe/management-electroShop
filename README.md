@@ -1,8 +1,6 @@
 # management-ectroShop-agency
 # Online Shop - Automated Sales Management
 
-![Online Shop](https://placehold.it/200x100)
-
 This project aims to create an application that enables an online store to manage the sales process of its products on the web automatically. The application includes essential features to organize products in a catalog, allow customers to place orders and pay securely, and management features for store administrators.
 
 ## Key Features
