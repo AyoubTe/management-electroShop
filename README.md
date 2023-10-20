@@ -39,7 +39,7 @@ The application is developed using the following technologies:
 1. **Clone the Project**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-user/online-shop.git
+   git clone https://github.com/AyoubTe/management-ectroShop-agency.git
    ```
 
 2. **Server Configuration**: Ensure you have an Apache web server and MySQL database server set up and running.
