@@ -1,4 +1,4 @@
-# management-ectroShop-agency
+# management-electroShop
 # Online Shop - Automated Sales Management
 
 This project aims to create an application that enables an online store to manage the sales process of its products on the web automatically. The application includes essential features to organize products in a catalog, allow customers to place orders and pay securely, and management features for store administrators.
@@ -39,7 +39,7 @@ The application is developed using the following technologies:
 1. **Clone the Project**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/AyoubTe/management-ectroShop-agency.git
+   git clone https://github.com/AyoubTe/management-electroShop.git
    ```
 
 2. **Server Configuration**: Ensure you have an Apache web server and MySQL database server set up and running.
